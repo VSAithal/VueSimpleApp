@@ -36,5 +36,6 @@ export default {
 <style scoped>
 input[type="submit"] {
   margin-top: 1%;
+  background: #3e3d3d !important;
 }
 </style>

@@ -90,5 +90,8 @@ export default {
 <style scoped>
 .list-group {
   margin-top: 7%;
+  height: calc(100vh - 200px);
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 </style>
