@@ -1,8 +1,7 @@
 <template>
   <div>
     <input
-      type="text"
-      id="test"
+      type="number"
       name="name"
       class="list-group-item form-control inputStyle"
       :value="item.value"
